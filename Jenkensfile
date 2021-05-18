@@ -1,0 +1,9 @@
+pipeline {
+  agent any
+
+  stage('first') {
+    steps {
+      'Hello World!!!'
+    }
+  }
+}
