@@ -1,0 +1,11 @@
+{
+  "name": "docker-scratch",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "thiti.t",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6"
+  }
+}
